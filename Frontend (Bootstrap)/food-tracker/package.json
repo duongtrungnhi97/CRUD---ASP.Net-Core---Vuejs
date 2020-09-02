@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "axios": "^0.19.1",
-    "bootstrap-vue": "^2.0.0-rc.11",
+    "bootstrap-vue": "^2.0.0-rc.12",
     "core-js": "^3.4.4",
     "cors": "^2.8.5",
     "jQuery": "^1.7.4",

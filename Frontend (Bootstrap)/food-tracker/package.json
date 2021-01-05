@@ -9,7 +9,7 @@
     "tsc": "tsc"
   },
   "dependencies": {
-    "axios": "^0.19.1",
+    "axios": "^0.21.1",
     "bootstrap-vue": "^2.0.0-rc.11",
     "core-js": "^3.4.4",
     "cors": "^2.8.5",
